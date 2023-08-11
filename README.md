@@ -65,9 +65,18 @@ The output of the command is saved in **output.txt**
 ### docker update 
 ![image](https://github.com/AdeelAhmedIqbal/DICE/assets/62285793/12074b1a-0714-45be-bcdb-6a78c1f68558)
 
-## docker restart
+### docker restart
 ![image](https://github.com/AdeelAhmedIqbal/DICE/assets/62285793/e814ecf1-2924-4504-91d0-42faaabbcf3f)
 
+## Part 3
+### Verify that index.html is accessible at localhost:8080
+![image](https://github.com/AdeelAhmedIqbal/DICE/assets/62285793/fee3d30a-ddd8-4136-b7c6-d7cf4a40faf3)
+
+### Verify that about.html is accessible at localhost:8081/about.html
+![image](https://github.com/AdeelAhmedIqbal/DICE/assets/62285793/85118560-e0c2-40f3-bff3-b504d4e0ba0a)
+
+### Verify index.html and about.html are still in my_volume
+![image](https://github.com/AdeelAhmedIqbal/DICE/assets/62285793/b0e05ff2-5097-4a01-b4f7-437423275659)
 
 
 
