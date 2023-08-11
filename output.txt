@@ -1,0 +1,5 @@
+UID         PID      PPID      C      STIME       TTY             TIME               CMD
+root        2003     1982      0      19:51        ?              00:00:00            nginx: master process nginx -g daemon off;
+systemd+    2038     2003      0      19:51        ?              00:00:00            nginx: worker process
+systemd+    2039     2003      0      19:51        ?              00:00:00            nginx: worker process
+systemd+    2040     2003      0      19:51        ?              00:00:00            nginx: worker process
